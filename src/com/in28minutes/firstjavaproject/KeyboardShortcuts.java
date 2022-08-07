@@ -1,7 +1,8 @@
 package com.in28minutes.firstjavaproject;
 
-public class HelloWorld {
+public class KeyboardShortcuts {
     public static void main(String[] args) {
-        System.out.println("HelloWorld");
+        int i = 0;
+        System.out.println(i);
     }
 }
